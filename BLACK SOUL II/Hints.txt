@@ -1,0 +1,366 @@
+
+【The Cheshire Cat's Gift】
+All options can be obtained later in the game, 
+so please choose whichever one you want.
+
+・Ring of Life - Slightly increases HP when equipped.
+・Master Key - Unlocks each and every lock. Consumed on use.
+・Homeward Bonedust - Returns you to the bonfire you last rested at. Consumed on use.
+・Girl's Scent - Completely restores HP and removes Hollowing ailment. Consumed on use.
+・Unseen Pepper - Sprinkle it on yourself to turn invisible. Consumed on use.
+・Candy - There might be some benefit to collecting them?
+
+
+
+
+【Combat】
+Most enemies deal a lot of damage with their attacks and spells,
+so facing them directly can quickly lead you to your demise.
+Break, Guard, and Dodge are the three tactics that when used 
+correctly can allow you to eke out an advantage in combat.
+
+
+Break - Used on an enemy preparing to unleash a powerful attack or 
+		 a Guarding enemy, it will stun that enemy and leave it Vulnerable.
+		 However, note that some enemies may have moves that cannot
+		 be broken. In those cases, you'll need to Guard or Dodge.
+
+
+Guard - Halve the damage of incoming physical and magical attacks.
+		 Shields can improve the amount of reduced damage further.
+		 Additionally, while Guarding, you cannot be Stunned.
+		 However, at the same time, Guarding drops your Evasion and
+		 Magic Evasion to nothing, and the damage of Guard-piercing
+		 attacks cannot be reduced.
+　　　　
+
+Dodge - Completely nullify the incoming physical and magical attacks
+		 and avoid ailments with a 70% chance. However, you cannot avoid 
+		 Stun and unavoidable attacks and spells cannot be Dodged.
+
+
+※You can use recovery items in combat instantly, without spending a turn.
+※You can switch equipment in combat. (Equip command at the bottom of the list.)
+※You can use Unseen Pepper to sneak up on enemies from behind and 
+  Backstab them. (Some enemies cannot be backstabbed.)
+
+
+
+【Ailments】
+
+Hollowing - Reduces MaxHP by 20%. Defeat a boss or use Girl's Scent to remove it.
+
+Stun - Lose the ability to act for a turn. Can be inflicted with most weapons.
+
+Poison - 2% MaxHP damage over time. Can be treated with Antidote Herb.
+
+Deadly Poison - 3% MaxHP damage over time. Can be treated with Antidote Herb.
+
+Oiled - Increases Fire damage taken and reduces Speed by 20% for 3 to 4 turns.
+		 Can be removed with Water.
+
+Sleep - Lose the ability to act for 3 to 5 turns. Taking damage cancels it.
+
+Bleed - 3% MaxHP damage over time that lasts 2 to 4 turns. 
+		 Can be treated with Blood Stanch.
+
+Burning - 5% MaxHP damage over time that lasts 2 turns. Can be removed with a Water.
+
+Feeble - Lose the ability to recover HP for 10 turns(doesn't affect regeneration). 
+		 Can be treated with Vigor Medicine.
+
+Fear - Reduces Evasion and Magic Evasion to nothing for 5 turns. 
+		 Can be treated with Candle Embers.
+
+Madness - Permanent 50% MaxHP damage over time. Greatly increases Attack and Magic. 
+		 Can be treated with Sedative.
+
+Vulnerable - Lose the ability to act for 2 turns. 
+		 Reduces Evasion and Magic Evasion to nothing and reduces Speed. 
+		 Doubles damage taken.
+
+Completely Vulnerable - Lose the ability to act for 2 turns. 
+		 Reduces Evasion and Magic Evasion to nothing and reduces Speed.
+		 Triples damage taken.
+
+Virulent Poison - Permanent 10% MaxHP damage over time. 
+		 Can only be removed by dying or resting by a bonfire.
+
+Frail - Increase damage taken by 50%. Can be treated with a Herb Flask or a Blood Vial.
+
+Silence - Lose the ability to use Techniques for 2 turns.
+		 Can be treated with Mermaid's Voice.
+
+Frostbite -  Increases Ice damage taken and reduces MDef by 20% for 3 to 4 turns.
+		 Can be removed with Charcoal Pine Resin.
+		
+Laceration - 2% MaxHP damage over time that lasts 5 turns. 
+		 Reduces Attack and Magic by 15%.
+		 Can be removed with Water.
+
+
+【Q&A】
+
+Q. I can only reinforce a weapon up to +5.
+A. Unique weapons are capped at +5. 
+   Additionally, you need Mysterious Shards to reinforce them.
+
+
+Q. How do I level up?
+A. At first, simply defeat bosses and advance through the game.
+   Once you reach Library Dream, you'll meet Node there who can raise your level.
+
+
+Q. What happened to Parry?
+A. It's gone. There are ways to counterattack, 
+   but you don't avoid the damage with these counters.
+
+
+Q. Does Backstab damage go up?
+A. Backstab damage is equal to your Lv*10+50% enemy's MaxHP.
+
+
+Q. Feeble doesn't stop enemies from regenerating?
+A. It doesn't. Poisons, Burning, and Bleed are good ways to counter regeneration.
+
+
+Q. What does Luck do?
+A. Affects Ailment and Debuff application chances. 
+   The higher it is, the less likely you are to be inflicted with one, 
+   and the more likely an enemy is.
+
+
+Q. How do I use Skill Storage?
+A. Select a skill you aren't planning to use in combat and press Shift.
+
+
+Q. How do I use Rabbit Keys?
+A. There's a place in Rabbit Hole where you can use them. Hint: Busts.
+
+
+Q. BGM stopped and NPCs talk in mojibake.
+A. Your SEN is too low, you're in great danger!
+   Rape White Rabbit Node a few times to quickly restore your SEN.
+
+
+Q. Any cheat equip this game?
+A. Yep.
+   Examine the red box to the bottom right in the Library Dream a few times.
+   Rings to double Soul and item droprates are there.
+
+
+Q. I'M TOO SLOOOOW! How do I go faster?
+A. You should make a Covenant with Foolish Bird Dodo in the Pond of Bloody Tears. 
+   As you increase the Covenant's level, she'll teach you a skill to move faster.
+
+
+Q. Where's the Chaos Dungeon?
+A. Behind the red door in the Dungeon below Library Dream.
+  (Your progress has to be above 1 to enter it.)
+
+
+Q. What's the Chaos Dungeon?
+A. It's a sort of roguelite pure grind dungeon.
+   The items you find there can be taken outside,
+   and it may be a good place to take a break.
+   But please don't forget about Alice.
+
+
+Q. I want to save in the Chaos Dungeon.
+A. Though you can't save in the Chaos Dungeon normally, 
+   you can interact with the skull before a boss room
+   after defeating the boss to save.
+
+Q. Hey, hey! I got bored with the Chaos Dungeon, I want to leave! But I can't! 
+   Isn't that, like, too mean?!
+A. For that please use Old King's Bonedust from Key Items.
+
+
+Q. Mimics are laaame!!
+A. There's a brief delay between you opening a chest and the mimic attacking you.
+   It may be a good idea to quickly step back every time as a precaution.
+
+
+Q. Why aren't there more H-scenes with me?!! Tee-hee.
+A. The main heroine is Alice, you know?
+
+
+Q. Node is sleeping.
+A. That's an event that sometimes happens. 
+   Go wild on her, she's asking for it to happen.
+
+
+Q. Scary faces appear every time I move between areas.
+A. You must've done something naughty, haven't you?
+   You can ease the curse in the room of reminiscence.
+
+
+
+Q. What's Crimean Nursing Graveyard? How do I get there?
+A. It's a challenging area and the beginning of DLC 3.
+   You can access it from Carroll River.
+  (But first, you have to clear End G and talk with Mabel
+   at least once. Also, you'll need your SEN to be 31+)
+
+Q. I can't find Sparks in Crimean Nursing Graveyard.
+A. There's one on each of 2F/3F/4F. Once you gather them, 
+   try igniting the lamps and you should be able to reach a new floor.
+
+
+Q. What's with the door on the left side of Chaos Dungeon hub?
+   How do I open it?
+A. If you challenge Chaos Dungeon and raise Depth at least once,
+   Mabel will appear near the Chaos Dungeon bonfire and that door will open.
+
+
+Q. Crimean Nursing Graveyard's bosses are too strong!
+A. It is recommended to have 10-20k stats for that area and beyond.
+   Also, it might be a good idea not to limit yourself to just one set of equipment.
+
+
+Q. It's too hard.
+A. Going through the cycles increases the difficulty.
+   You can check your current difficulty at the statue in the top right
+   of Library Dream and reduce it if you so desire.
+
+
+
+Q. Remove horror parts.
+A. I'm sorry if it scared you, you're completely right.
+   It's the creator's bad taste. Please find the ability to compromise in your generous heart.
+   You are brave and strong, your soul more tenacious than you may think.
+   No matter what fear or malice comes for you, it cannot kill you.
+   Your conviction is true, and as long as you don't give up it will sweep away 
+   any fog of nightmares and give you the power to keep advancing.
+   ...However, if you find yourself tired, there's nothing wrong with seeking
+   solace in the embraces of the heroines. Rest your feet for now,
+   and one day you will conquer any challenge before you, that is what I believe.	
+　
+
+
+
+【Rough Map】
+Switch font to VL Gothic for optimal viewing
+
+
+
+Library Dream　　　　　　　　　　　Nameless Forest──Station Hanover─→Queensland
+                                    ｜
+                                    ｜             
+                                    ｜           Duchess' Mansion──Infinite Food
+                                    ｜　　　　           ｜
+      　　　　　　┌────→Pond of Bloody Tears──Spore Forest──Mushroom Village
+      　　　　　　｜　　　　　　　　　　　    ｜
+      　　　　　　｜　　　　    　　┌──Liddell Cemetery──Garden of the Heart──Red Castle Frissel
+      　　　　　　｜　　　　　    　｜　　　  ｜
+      　　　　　　｜　　　　　    　｜　　Ripon Grand Cathedral
+　      　　　　　｜　　　　　    　｜　　　
+Crash Chamber─Rabbit Hole───Lutwidge Town　　　　　　　　　　　　　 　　　　     The Surface of the Moon
+　　　　　　      ｜　       　     ｜　　　　　　　　　　　　　　　　　　　　　　　　 　　　　    ｜　
+　　　　　　      ｜　　　　　　     ├──Park of Fog──Upper Lutwidge Town──────Ox Ward University──Endless Tea Party──Sick Clock Tower
+　　　　　　      ｜　       　     ｜　　　　　　　　　　　　 　　　　　　　　　　　　　　　　         ｜
+　　　　　　      ｜　　　　　　     ├─Mental Ward                                               ｜
+　　　　　　      ｜　       　     ｜　　　                   　　　　　　　　　　　　　　　　       ｜
+　　　　    Fuming Forest───Billingsgate Market──Beach of Grief──Sea Turtle Restaurant     ｜
+　　　　      　　　　　　　　　　　  ｜                     ｜　　　　　　　　　　　　　　　          ｜
+　　　                        Slaughterhouse      Oysters' Rotted Sea    　　　　　　　　　       ｜
+　　　　      　　　　　　　　　　　  ｜　                   ｜                                     ｜
+　　　　      　　　　　　　　　　　  ｜       　      Ship Graveyard──Terrible Tragic Hotel      ｜
+　　　　      　　　　　　　　　　　  ｜                     ｜                                     ｜
+　　　　      　　　　　　　　　　　  ｜                 HMS Erebus　　　　　　　　　　　　           ｜
+　　　　      　　　　　　　　　　　  ｜                     ｜                                     ｜ 　　　　　　　　　　　　
+　　　　      　　　　　　　　　　　  ｜        　        Deep Sea                                  ｜
+　　　　      　　　　　　　　　　　  ｜                                                            ｜
+　　　　　　　　　　　　　       Carroll River──Old Sheep's Shop                                 ｜
+　　　　      　　　　　　　　　　　  ｜                                                           ｜
+　　　　      　　　　　　　　　　　  └─────────────────────────────────┘                                                       
+　　　　      　　　　　　　　　　　  ｜
+　　　　      　　　　　　　　　　　  ｜
+　　　　      　　　　　　　　　　　  ｜　　　　　　　　　　　　　　　  
+ 　　　　　　　　　　　    Crimean Nursing Graveyard
+　　　　      　　　　　　　　　　　  ｜
+　　　　      　　　　　　　　　　　  ｜
+　　　　　　　                   Winterbell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+【Ending Conditions】
+
+
+※SPOILER ALERT!!!
+※SPOILER ALERT!!!
+※SPOILER ALERT!!!
+※SPOILER ALERT!!!
+※SPOILER ALERT!!!
+※SPOILER ALERT!!!
+※SPOILER ALERT!!!
+※SPOILER ALERT!!!
+※SPOILER ALERT!!!
+※SPOILER ALERT!!!
+※SPOILER ALERT!!!
+※SPOILER ALERT!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+End A: Defeat the last boss and make love with Alice.
+End B: Raise the Covenants of specific heroines(Node, Bill, Dodo, Shisha, 
+       the Duchess, the Hatter, the Mock Turtle, Wolris, Tweedle Twins) to Lv3,
+	   then make love with Node and after the act choose to give up on your search.
+End C: Lose to the last boss.
+End D: Kill Alice.
+End E: Kill Alice with your SEN at 0 or below.
+End F: Stand with Mary Ann in the Hidden Route.
+End G: Stand with Red Hood in the Hidden Route.
+End H: Defeat the backstage Boss of Winterbell.
+
+
+Reaching Hidden Route - Collect 6 memories of Alice. 
+                        Meet and talk with Red Hood in at least 10 different places. 
+                        Have Leaf's Ring.
+                        Upon fulfilling these 3 conditions, move onto the next cycle,
+                        don't skip the opening, and when given the choice, cancel instead.
+
+
+
+
+
+
